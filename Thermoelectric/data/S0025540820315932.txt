@@ -1,0 +1,66 @@
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Compound</th>
+      <th>Configuration</th>
+      <th>σ(Ω.m)−1</th>
+      <th>κe(W/mK)</th>
+      <th>κl (W/mK)</th>
+      <th>S(μV/K)</th>
+      <th>ZT</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>Cs2HfI6</td>
+      <td>Without SOC</td>
+      <td>4.57 × 104</td>
+      <td>0.899</td>
+      <td>1.48</td>
+      <td>223.0</td>
+      <td>0.760</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>Cs2HfI6</td>
+      <td>With SOC</td>
+      <td>1.21 × 104</td>
+      <td>0.321</td>
+      <td>1.48</td>
+      <td>257.0</td>
+      <td>0.750</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>Cs2ZrI6</td>
+      <td>Without SOC</td>
+      <td>5.63 × 104</td>
+      <td>0.994</td>
+      <td>1.43</td>
+      <td>207.0</td>
+      <td>0.725</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>Cs2ZrI6</td>
+      <td>With SOC</td>
+      <td>1.31 × 104</td>
+      <td>0.360</td>
+      <td>1.43</td>
+      <td>261.0</td>
+      <td>0.747</td>
+    </tr>
+  </tbody>
+</table>

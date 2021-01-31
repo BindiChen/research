@@ -1,0 +1,76 @@
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Material</th>
+      <th>S (μV/K)</th>
+      <th>σ (S/cm)</th>
+      <th>κ (W/m/K)</th>
+      <th>T (K)</th>
+      <th>ZT</th>
+      <th>Ref</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>p-type Bi2Te3</td>
+      <td>225</td>
+      <td>625</td>
+      <td>0.8</td>
+      <td>390</td>
+      <td>1.5</td>
+      <td>[12]</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>In0.25Ce0.2Co4Sb12</td>
+      <td>300</td>
+      <td>450</td>
+      <td>1.6</td>
+      <td>600</td>
+      <td>1.5</td>
+      <td>[27]</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Ag0.4Pb22.5SbTe20</td>
+      <td>210</td>
+      <td>400</td>
+      <td>0.8</td>
+      <td>700</td>
+      <td>1.5</td>
+      <td>[27]</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>Ti0.5(Zr0.5Hf0.5)0.5NiSN0.998Sb0.002</td>
+      <td>280</td>
+      <td>666</td>
+      <td>2.9</td>
+      <td>800</td>
+      <td>1.5</td>
+      <td>[27]</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>(Ti0.35Zr0.35Hf0.30)33(Ni0.998Cu0.002)35(SN0.988Sb0.012)32</td>
+      <td>274</td>
+      <td>800</td>
+      <td>2.8</td>
+      <td>700</td>
+      <td>1.5</td>
+      <td>[27]</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>n-type Si80Ge20</td>
+      <td>290</td>
+      <td>360</td>
+      <td>2.3</td>
+      <td>1173</td>
+      <td>1.5</td>
+      <td>[28]</td>
+    </tr>
+  </tbody>
+</table>

@@ -1,0 +1,136 @@
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Alloy</th>
+      <th>Primary process</th>
+      <th>consolidation</th>
+      <th>Power factor mW/mK2@ 373&nbsp;K</th>
+      <th>Electrical conductivityS/m@ 373&nbsp;K</th>
+      <th>SeebeckμV/K@ 373&nbsp;K</th>
+      <th>Thermal ConductivityW/m.K@ 373&nbsp;K</th>
+      <th>ZT@ 373&nbsp;K</th>
+      <th>Maximum ZT reported</th>
+      <th>Ref</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>Bi0.5Sb1.5Te3</td>
+      <td>RT milling of NanopowdersSeveral hrs</td>
+      <td>Hot press</td>
+      <td>3.7</td>
+      <td>85000</td>
+      <td>210</td>
+      <td>0.98</td>
+      <td>1.40</td>
+      <td>1.4@ 373&nbsp;K</td>
+      <td>[5]</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>Bi0.5Sb1.5Te3</td>
+      <td>RT millingPowders60hrs</td>
+      <td>SPS</td>
+      <td>1.1</td>
+      <td>18500</td>
+      <td>230</td>
+      <td>0.17</td>
+      <td>1.70</td>
+      <td>1.9@ 386&nbsp;K</td>
+      <td>[16]</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Bi0.5Sb1.5Te33%te excess</td>
+      <td>RT millingPowders1.5hrs</td>
+      <td>SPS</td>
+      <td>2.07</td>
+      <td>28500</td>
+      <td>260</td>
+      <td>0.95</td>
+      <td>0.81</td>
+      <td>0.98@ 300&nbsp;K</td>
+      <td>[12]</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>Bi0.3Sb1.7Te3Sb excess</td>
+      <td>Milling of powder3hrs</td>
+      <td>SPS</td>
+      <td>2.8</td>
+      <td>81967</td>
+      <td>186</td>
+      <td>0.90</td>
+      <td>1.10</td>
+      <td>1.23@ 423&nbsp;K</td>
+      <td>[43]</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>Bi0.56Sb1.74Te2.69Sb rich Te lean</td>
+      <td>Ingot</td>
+      <td>melting</td>
+      <td>2.7</td>
+      <td>58823</td>
+      <td>223</td>
+      <td>1.57</td>
+      <td>0.78</td>
+      <td>0.81@ 323&nbsp;K</td>
+      <td>[18]</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>Bi13.33Sb26.66Te60</td>
+      <td>Ingot</td>
+      <td>Flame melting</td>
+      <td>2.1</td>
+      <td>64935</td>
+      <td>179</td>
+      <td>1.26</td>
+      <td>0.62</td>
+      <td>0.61@ 389&nbsp;K</td>
+      <td>This work</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>Bi13.33Sb26.66Te60</td>
+      <td>Chill-cast</td>
+      <td>12&nbsp;mm dia. Water cooled Copper mould</td>
+      <td>2. 34</td>
+      <td>91609</td>
+      <td>160</td>
+      <td>1.46</td>
+      <td>0.64</td>
+      <td>0.7 @ 400&nbsp;K</td>
+      <td>This work</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>Bi11.66Sb23.33Te65 (Bi0.29Sb0.58)2Te3 + excess Te)</td>
+      <td>Ingot</td>
+      <td>Flame melting</td>
+      <td>679 (μW/mK2)</td>
+      <td>15350</td>
+      <td>212</td>
+      <td>1.90</td>
+      <td>0.13</td>
+      <td>0.17@ 304&nbsp;K</td>
+      <td>This work</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>Bi11.66Sb23.33Te65 (Bi0.29Sb0.58)2Te3 + excess Te)</td>
+      <td>Cryo -milling of ingot 5hrs</td>
+      <td>Induction hot press</td>
+      <td>1.91</td>
+      <td>45000</td>
+      <td>207</td>
+      <td>1.20</td>
+      <td>0.63</td>
+      <td>0.73 @ 304&nbsp;K</td>
+      <td>This work</td>
+    </tr>
+  </tbody>
+</table>
