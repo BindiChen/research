@@ -1,0 +1,78 @@
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Material</th>
+      <th>ZTmax</th>
+      <th>α (μV/K)</th>
+      <th>Advantages</th>
+      <th>Disadvantages</th>
+      <th>Ref.</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>β&lt;math&gt;&lt;mi mathvariant="italic" is="true"&gt;β&lt;/mi&gt;&lt;/math&gt;-tellurene</td>
+      <td>2.9</td>
+      <td>~450</td>
+      <td>Flexible, high theoretical performance</td>
+      <td>Poor understanding</td>
+      <td>[11]</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>α&lt;math&gt;&lt;mi mathvariant="italic" is="true"&gt;α&lt;/mi&gt;&lt;/math&gt;-tellurene</td>
+      <td>0.8</td>
+      <td>~700</td>
+      <td>Very stable, flexible</td>
+      <td>Low relative TE performance, despite Seebeck</td>
+      <td>[36]</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>γ&lt;math&gt;&lt;mi mathvariant="italic" is="true"&gt;γ&lt;/mi&gt;&lt;/math&gt;-tellurene</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>None</td>
+      <td>Highly unstable</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>Bi2Te3</td>
+      <td>1.3</td>
+      <td>~200</td>
+      <td>Established material</td>
+      <td>Expensive</td>
+      <td>[37]</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>MoS2</td>
+      <td>2.2</td>
+      <td>~398</td>
+      <td>Flexible, low-cost</td>
+      <td>Laboratory results weak</td>
+      <td>[38]</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>PbTe</td>
+      <td>2.6</td>
+      <td>~325</td>
+      <td>Established material</td>
+      <td>Expensive</td>
+      <td>[8,37,39]</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>Skutterudites</td>
+      <td>1.8</td>
+      <td>~210</td>
+      <td>Laboratory results strong</td>
+      <td>Poor understanding</td>
+      <td>[8,40]</td>
+    </tr>
+  </tbody>
+</table>

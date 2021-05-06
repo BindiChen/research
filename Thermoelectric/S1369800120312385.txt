@@ -1,0 +1,206 @@
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Material</th>
+      <th>Method</th>
+      <th>σ (S m−1)</th>
+      <th>S (μV K−1)</th>
+      <th>Κ (W m−1 K−1)</th>
+      <th>PF (μW m−1 K−2)</th>
+      <th>zT</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>Ag-doped SnS</td>
+      <td>MA and SPS</td>
+      <td>3</td>
+      <td>&gt;400</td>
+      <td>0.40</td>
+      <td>300</td>
+      <td>0.6</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>Sn0.97Na0.03Se</td>
+      <td>Modified Bridgman method</td>
+      <td>1&nbsp;×&nbsp;105</td>
+      <td>~150</td>
+      <td>~0.8</td>
+      <td>2800</td>
+      <td>2.0</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>SmyCo4Sb12</td>
+      <td>Non-equilibrium synthesis</td>
+      <td>1.6&nbsp;×&nbsp;105</td>
+      <td>~ −200</td>
+      <td>3</td>
+      <td>NaN</td>
+      <td>1.3</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>(Si95Ge5)0.65(Si70Ge30P3)0.35</td>
+      <td>BM and dc HP</td>
+      <td>1.63&nbsp;×&nbsp;105</td>
+      <td>NaN</td>
+      <td>0.7</td>
+      <td>NaN</td>
+      <td>1.3</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>Bi0.875Ba0.125CuSeO</td>
+      <td>Two-step solid-state reaction</td>
+      <td>3&nbsp;×&nbsp;104</td>
+      <td>184</td>
+      <td>~0.25</td>
+      <td>1000</td>
+      <td>1.4</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>Cu2Se</td>
+      <td>Self-propagating high-temperature method</td>
+      <td>6&nbsp;×&nbsp;104</td>
+      <td>2000</td>
+      <td>&lt;2</td>
+      <td>2.3&nbsp;×&nbsp;106</td>
+      <td>&gt;400</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>NaxPb1-xTe</td>
+      <td>Melting and HP</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>~0.8</td>
+      <td>NaN</td>
+      <td>~1.4</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>KxPb1-xTe</td>
+      <td>Solid melting and HP</td>
+      <td>NaN</td>
+      <td>~320</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>1.3</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>Ge0.9Sb0.1Te</td>
+      <td>Vacuum sealed tube melting reactions</td>
+      <td>~778</td>
+      <td>~256</td>
+      <td>~1.1</td>
+      <td>~5140</td>
+      <td>1.85</td>
+    </tr>
+    <tr>
+      <th>9</th>
+      <td>Bulk black-phosphorus</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>415</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>10</th>
+      <td>Sn0.88Mn0.12Te</td>
+      <td>Grinding and SPS</td>
+      <td>NaN</td>
+      <td>~230</td>
+      <td>0.9</td>
+      <td>NaN</td>
+      <td>1.3</td>
+    </tr>
+    <tr>
+      <th>11</th>
+      <td>(Zr0.5Hf0.5)0.5Ti0.5NiSn0.998Sb0.002</td>
+      <td>Arc melting and HP</td>
+      <td>NaN</td>
+      <td>300</td>
+      <td>3.0</td>
+      <td>3800</td>
+      <td>1.5</td>
+    </tr>
+    <tr>
+      <th>12</th>
+      <td>Pb0.975Na0.025S/3%CdS nanostructures </td>
+      <td>Vacuum sealed tube melting reactions and SPS</td>
+      <td>9.87&nbsp;×&nbsp;104</td>
+      <td>51</td>
+      <td>0.63</td>
+      <td>NaN</td>
+      <td>1.3</td>
+    </tr>
+    <tr>
+      <th>13</th>
+      <td>Ba0.18Ce0.05Co4Sb12.02</td>
+      <td>Melting, and SPS</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>2.0</td>
+      <td>NaN</td>
+      <td>1.26</td>
+    </tr>
+    <tr>
+      <th>14</th>
+      <td>Bi2Te3/SWCNT</td>
+      <td>Magnetron sputtering technique</td>
+      <td>1&nbsp;×&nbsp;105</td>
+      <td>~ −110</td>
+      <td>~0.26</td>
+      <td>~1600</td>
+      <td>0.89</td>
+    </tr>
+    <tr>
+      <th>15</th>
+      <td>Silicon nanowires</td>
+      <td>Electroless etching</td>
+      <td>~3&nbsp;×&nbsp;105</td>
+      <td>NaN</td>
+      <td>~1.6</td>
+      <td>3.3&nbsp;×&nbsp;103</td>
+      <td>0.6</td>
+    </tr>
+    <tr>
+      <th>16</th>
+      <td>Ge/Si core-shell nanowire</td>
+      <td>CVD</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>1.1–2.6</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>17</th>
+      <td>Porous silicon nanowires</td>
+      <td>Ag metal-assisted chemical etching</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0.33</td>
+    </tr>
+    <tr>
+      <th>18</th>
+      <td>PbTe/PbTe0.75Se0.25</td>
+      <td>Thermal evaporation</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>~1.0</td>
+      <td>NaN</td>
+      <td>1.75</td>
+    </tr>
+  </tbody>
+</table>

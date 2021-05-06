@@ -1,0 +1,48 @@
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Compound</th>
+      <th>Method</th>
+      <th>ZT</th>
+      <th>T (K)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>Bi–Te–Se alloys</td>
+      <td>Thin film technique</td>
+      <td>0.20</td>
+      <td>300</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>Bi2Se2.7Te0.3</td>
+      <td>Melt growth Technique</td>
+      <td>0.10</td>
+      <td>300</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Bi–Te&nbsp;+&nbsp;Bi -Te-Se</td>
+      <td>Solvothermal reaction</td>
+      <td>0.05</td>
+      <td>300</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>Bi2Te3</td>
+      <td>Spark plasm sintering</td>
+      <td>0.29</td>
+      <td>300</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>(Bi0.98Sn0.02)Te2.7Se0.3</td>
+      <td>Solid state reaction</td>
+      <td>0.27</td>
+      <td>300</td>
+    </tr>
+  </tbody>
+</table>
